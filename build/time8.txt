@@ -1,0 +1,21 @@
+Welcome to Simplex Algorithm !!
+4 5 6 7 9 
+Time taken by program is : 0.060691 sec 
+1 2 3 4 7 
+Time taken by program is : 0.05394 sec 
+3 4 6 7 8 
+Time taken by program is : 0.05354 sec 
+2 3 5 8 9 
+Time taken by program is : 0.05345 sec 
+3 4 7 8 9 
+Time taken by program is : 0.05262 sec 
+3 5 6 8 9 
+Time taken by program is : 0.05237 sec 
+2 3 4 5 6 
+Time taken by program is : 0.05365 sec 
+1 4 6 7 8 
+Time taken by program is : 0.05316 sec 
+2 3 4 6 8 
+Time taken by program is : 0.05325 sec 
+1 2 3 6 8 
+Time taken by program is : 0.05363 sec 

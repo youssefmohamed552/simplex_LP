@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/youssefhussein/programming/cplusplus/simplex_LP/main.cpp
+iostream
+-
+time.h
+-
+iomanip
+-
+vector
+-
+list
+-
+cmath
+-
+
